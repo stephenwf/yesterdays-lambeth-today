@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://example.com/iiif/07681_DSC_0089",
+  "@id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/07681_DSC_0089",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {

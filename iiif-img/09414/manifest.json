@@ -1,4 +1,5 @@
 {
+  "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/09414/manifest.json",
   "type": "Manifest",
   "label": {

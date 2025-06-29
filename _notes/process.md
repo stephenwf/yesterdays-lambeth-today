@@ -4,6 +4,12 @@ I think the whole exhibition is driven by the map as a navigation source.
 
 Then each panel is a IIIF Manifest (i.e., an individual exhibition in Delft / ME terms).
 
+Digirati resources:
+
+https://exhibitionviewer.org/docs/creating-exhibitions
+
+https://digirati-workshops.pages.dev/exhibition-building/
+
 
 ## The map
 
@@ -28,6 +34,8 @@ gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=png16m -r400 -sOutputFile='map400.png' '.\
 
 ```
 vips dzsave map.png map --layout iiif
+
+'C:\Program Files\vips\vips-dev-8.17\bin\vips.exe' dzsave '<file>' <name_part> --layout iiif
 ```
 
 ### Now create a Manifest for the map

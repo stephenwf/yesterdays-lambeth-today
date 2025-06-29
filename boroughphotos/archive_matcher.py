@@ -24,31 +24,39 @@ def is_five_digits(s):
 def parse_filename(file):
     bp_id = None
     is_archive = False
-    dot_parts = file.split('.')
-    if is_five_digits(dot_parts[0]):
-        bp_id = dot_parts[0]
+    name_part = file.split('.')
+    if is_five_digits(name_part[0]):
+        bp_id = name_part[0]
         is_archive = True
     else:
-        sub_parts = dot_parts[0].split('_')
+        sub_parts = name_part[0].split('_')
         if is_five_digits(sub_parts[0]):
             bp_id = sub_parts[0]
 
-    return (bp_id, is_archive)
+    url_safe_name = name_part[0].replace(' ', '_')
+    print(f"Parsed {bp_id}, is_archive={is_archive}, name_part: {url_safe_name}")
+    return (bp_id, is_archive, url_safe_name)
 
 
 def scrape_borough_photos(img_data):    
+    time.sleep(1)
     search_template = "https://boroughphotos.org/lambeth/search-results/?fRefNum=" + img_data["bp_id"]    
     r = requests.get(search_template, headers=headers)
     soup = BeautifulSoup(r.text)
     result = soup.css.select("#searchResultThumbContainer2 a")[0]
-    print(result)
+    # print(result)
     img_data["borough_url"] = "https://boroughphotos.org" + result['href']
     img_data["name"] = result['title']
-    print(img_data)
-    time.sleep(3)
+    print(f"Scraped {img_data['borough_url']} for {img_data['name']}")
+    return
 
 
-    
+def get_vips_cmd(file, name):
+    return f"'C:\\Program Files\\vips\\vips-dev-8.17\\bin\\vips.exe' dzsave '{file}' {name} --layout iiif"
+
+
+def get_image_service(name):
+    return "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/" + name
 
 
 def process_folder(folder):
@@ -58,23 +66,36 @@ def process_folder(folder):
 
         full_name = join(folder, file)
         print(f"looking at file {full_name}...")
-        (bp_id, is_archive) = parse_filename(file)
+        (bp_id, is_archive, name_part) = parse_filename(file)
         if bp_id is not None:
             counter = counter + 1
             img_data = images.get(bp_id, {
-                "file": None,
                 "bp_id": bp_id,
+                "file": None,
+                "name_part": None,
                 "name": None,
                 "borough_url": None,
-                "now_image": None
+                "iiif_image_service": None,
+                "vips_cmd": None,
+                "now_image": None,
+                "now_name_part": None,
+                "now_image_iiif_image_service": None,
+                "now_image_vips_cmd": None
             })
-            if img_data.get("borough_url", None) is None:
-                scrape_borough_photos(img_data)
 
             if is_archive:
                 img_data["file"] = full_name
+                img_data["name_part"] = name_part
+                img_data["vips_cmd"] = get_vips_cmd(img_data["file"], img_data["name_part"])
+                img_data["iiif_image_service"] = get_image_service(img_data["name_part"])
             else:
                 img_data["now_image"] = full_name
+                img_data["now_name_part"] = name_part
+                img_data["now_image_vips_cmd"] = get_vips_cmd(img_data["now_image"], img_data["now_name_part"])
+                img_data["now_image_iiif_image_service"] = get_image_service(img_data["now_name_part"])
+
+            if img_data.get("borough_url", None) is None:
+                scrape_borough_photos(img_data)
 
             images[bp_id] = img_data
         
@@ -99,9 +120,23 @@ if __name__ == "__main__":
             f.write(',')
             f.write(f'"{v["name"]}"')
             f.write(',')
-            f.write(f'"{v["borough_url"]}"')
+            f.write(f'"{v["iiif_image_service"]}"')
             f.write(',')
             f.write(f'"{v["now_image"]}"')
+            f.write(',')
+            f.write(f'"{v["now_image_iiif_image_service"]}"')
+            f.write(',')
+            f.write(f'"{v["borough_url"]}"')
             f.write('\n')
         
+    with open('vips.cmds.txt', 'w', encoding='utf-8') as f:        
+        for i, (k, v) in enumerate(images.items()):
+            archive = v.get("vips_cmd", None)
+            if archive is not None:
+                f.write(archive)
+                f.write('\n')
+            now_image = v.get("now_image_vips_cmd", None)
+            if now_image is not None:
+                f.write(now_image)
+                f.write('\n')
 

@@ -1,0 +1,79 @@
+{
+  "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/09414/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "C:\\Users\\TomCrane\\Dropbox\\personal\\Lambeth Archives\\220825_Exhibition Lambeth Archives 2208\\Exhibition Layouts 220823 Folder\\Links\\09414.jpg"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/09414/canvas",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "single canvas for C:\\Users\\TomCrane\\Dropbox\\personal\\Lambeth Archives\\220825_Exhibition Lambeth Archives 2208\\Exhibition Layouts 220823 Folder\\Links\\09414.jpg"
+        ]
+      },
+      "width": 3434,
+      "height": 2480,
+      "items": [
+        {
+          "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/09414/page",
+          "type": "AnnotationPage",
+          "label": {
+            "en": [
+              "single anno page for C:\\Users\\TomCrane\\Dropbox\\personal\\Lambeth Archives\\220825_Exhibition Lambeth Archives 2208\\Exhibition Layouts 220823 Folder\\Links\\09414.jpg"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/09414/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/09414/full/1600,1156/0/default.jpg",
+                "type": "Image",
+                "width": 1600,
+                "height": 1156,
+                "format": "image/jpg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/09414",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 3434,
+                    "height": 2480,
+                    "sizes": [
+                      {"width":100,"height":72},
+                      {"width":200,"height":144},
+                      {"width":400,"height":289},
+                      {"width":500,"height":361},
+                      {"width":1000,"height":722},
+                      {"width":1600,"height":1156}
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8
+                        ]
+                      }
+                    ],
+                    "preferredFormats": ["webp"],
+                    "extraFormats": ["webp"]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

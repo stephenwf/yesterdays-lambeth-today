@@ -10,6 +10,13 @@ https://exhibitionviewer.org/docs/creating-exhibitions
 
 https://digirati-workshops.pages.dev/exhibition-building/
 
+https://heritage.tudelft.nl/en/exhibitions
+
+https://leedsunilibrary.exhibitionviewer.org/marie-hartley
+
+
+
+
 
 ## The map
 

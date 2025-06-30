@@ -55,3 +55,10 @@ Many of the red entries on the RHS of the map will feature on the "exhibition" p
 
 This is done with linking annotations.
 
+# Possible TODOs
+
+Allmaps
+
+overlay map / open streetmap tiles
+
+What is the landing page? The map? Or the Intro text?

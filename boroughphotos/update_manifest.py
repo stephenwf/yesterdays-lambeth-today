@@ -1,0 +1,1 @@
+# Do this once the info.jsons are live, to get the thumbnail sizes.

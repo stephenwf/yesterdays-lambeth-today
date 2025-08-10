@@ -62,3 +62,10 @@ Allmaps
 overlay map / open streetmap tiles
 
 What is the landing page? The map? Or the Intro text?
+
+
+# Static IIIF
+
+```
+.\StaticIIIF.exe 'C:\Users\TomCrane\Dropbox\personal\Lambeth Archives\220825_Exhibition Lambeth Archives 2208\Exhibition Layouts 220823 Folder\Links\09414.jpg' 'C:\git\tomcrane\yesterdays-lambeth-today\iiif-img\09414'
+```

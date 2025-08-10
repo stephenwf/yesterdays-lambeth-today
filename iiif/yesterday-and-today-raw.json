@@ -1,0 +1,4134 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/yesterday-and-today-raw.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Yesterday's Lambeth Today: source images"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/05036",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[05036] BLENHEIM GARDENS ESTATE DEVELOPMENT, BRIXTON HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/05036",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/05036",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/05036/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/05036",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/05036"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=36999",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "BLENHEIM GARDENS ESTATE DEVELOPMENT, BRIXTON HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/07681",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[07681] TOWER BLOCKS, DULWICH ROAD, HERNE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/07681",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/07681",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/07681/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/07681",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/07681"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=39591",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "TOWER BLOCKS, DULWICH ROAD, HERNE HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/07681_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [07681] TOWER BLOCKS, DULWICH ROAD, HERNE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/07681_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/07681_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/07681_DSC_0089/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/07681_DSC_0089",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/07681_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/08951",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[08951] LOUGHBOROUGH PARK, LOUGHBOROUGH JUNCTION"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/08951",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/08951",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/08951/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/08951",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/08951"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=40859",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "LOUGHBOROUGH PARK, LOUGHBOROUGH JUNCTION"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/08951_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [08951] LOUGHBOROUGH PARK, LOUGHBOROUGH JUNCTION"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/08951_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/08951_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/08951_IMG_2814A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/08951_IMG_2814A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/08951_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09414",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[09414] STOCKWELL PARK ESTATE, STOCKWELL ROAD, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09414",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09414",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09414/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09414",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09414"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=41321",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "STOCKWELL PARK ESTATE, STOCKWELL ROAD, BRIXTON"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09414_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [09414] STOCKWELL PARK ESTATE, STOCKWELL ROAD, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09414_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09414_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09414_IMG_2826A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09414_IMG_2826A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09414_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09415",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[09415] STOCKWELL PARK ESTATE, STOCKWELL ROAD, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09415",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09415",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09415/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09415",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09415"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=41322",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "STOCKWELL PARK ESTATE, STOCKWELL ROAD, BRIXTON"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09415_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [09415] STOCKWELL PARK ESTATE, STOCKWELL ROAD, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09415_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09415_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09415_DSC_0043/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09415_DSC_0043",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09415_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09417",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[09417] STOCKWELL PARK ESTATE, STOCKWELL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09417",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09417",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09417/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09417",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09417"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=41324",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "STOCKWELL PARK ESTATE, STOCKWELL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09417_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [09417] STOCKWELL PARK ESTATE, STOCKWELL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09417_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09417_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09417_DSC_0046/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09417_DSC_0046",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09417_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09420",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[09420] RHODESIA ROAD, STOCKWELL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09420",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09420",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09420/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09420",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09420"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=41327",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "RHODESIA ROAD, STOCKWELL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09420_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [09420] RHODESIA ROAD, STOCKWELL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09420_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09420_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09420_DSC_0030A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09420_DSC_0030A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09420_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09597",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[09597] HEALTH CLINIC, CLAPHAM MANOR STREET, CLAPHAM"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09597",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09597",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09597/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09597",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09597"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=41503",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "HEALTH CLINIC, CLAPHAM MANOR STREET, CLAPHAM"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09597_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [09597] HEALTH CLINIC, CLAPHAM MANOR STREET, CLAPHAM"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09597_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09597_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09597_DSC_0024/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09597_DSC_0024",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09597_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09598",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[09598] BELMONT CLOSE, CLAPHAM"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09598",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09598",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09598/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09598",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09598"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=41504",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "BELMONT CLOSE, CLAPHAM"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09598_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [09598] BELMONT CLOSE, CLAPHAM"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09598_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09598_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09598_DSC_0015A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09598_DSC_0015A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09598_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09602",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[09602] PLAY AREA, AYTOUN ROAD, STOCKWELL PARK ESTATE, STOCKWELL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09602",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09602",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09602/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09602",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09602"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=41508",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "PLAY AREA, AYTOUN ROAD, STOCKWELL PARK ESTATE, STOCKWELL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09602_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [09602] PLAY AREA, AYTOUN ROAD, STOCKWELL PARK ESTATE, STOCKWELL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09602_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09602_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09602_DSC_0042_1/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09602_DSC_0042_1",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09602_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09607",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[09607] UPGROVE MANOR WAY, CRESSINGHAM GARDENS ESTATE, TULSE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09607",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09607",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09607/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09607",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09607"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=41513",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "UPGROVE MANOR WAY, CRESSINGHAM GARDENS ESTATE, TULSE HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09607_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [09607] UPGROVE MANOR WAY, CRESSINGHAM GARDENS ESTATE, TULSE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09607_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09607_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09607_DSC_0066/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09607_DSC_0066",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09607_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09608",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[09608] HARDEL WALK, CRESSINGHAM GARDENS ESTATE, TULSE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09608",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09608",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09608/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09608",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09608"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=41514",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "HARDEL WALK, CRESSINGHAM GARDENS ESTATE, TULSE HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09608_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [09608] HARDEL WALK, CRESSINGHAM GARDENS ESTATE, TULSE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/09608_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/09608_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09608_DSC_0075A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/09608_DSC_0075A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/09608_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10516",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10516] CENTRAL HILL ESTATE, UPPER NORWOOD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10516",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10516",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10516/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10516",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10516"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42421",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "CENTRAL HILL ESTATE, UPPER NORWOOD"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10516_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10516] CENTRAL HILL ESTATE, UPPER NORWOOD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10516_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10516_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10516_DSC_0011A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10516_DSC_0011A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10516_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10737",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10737] EDRICH HOUSE MODEL, BINFIELD ROAD, STOCKWELL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10737",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10737",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10737/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10737",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10737"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42641",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "EDRICH HOUSE MODEL, BINFIELD ROAD, STOCKWELL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10743",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10743] BLENHEIM GARDENS MODEL, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10743",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10743",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10743/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10743",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10743"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42647",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "BLENHEIM GARDENS MODEL, BRIXTON"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10745",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10745] BLENHEIM GARDENS, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10745",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10745",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10745/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10745",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10745"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42649",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "BLENHEIM GARDENS, BRIXTON"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10747",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10747] BLENHEIM GARDENS, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10747",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10747",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10747/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10747",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10747"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42651",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "BLENHEIM GARDENS, BRIXTON"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10757",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10757] DISABLED HOUSING, BLENHEIM GARDENS ESTATE, BRIXTON HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10757",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10757",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10757/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10757",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10757"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42661",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "DISABLED HOUSING, BLENHEIM GARDENS ESTATE, BRIXTON HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10758",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10758] BLENHEIM GARDENS ESTATE, BRIXTON HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10758",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10758",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10758/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10758",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10758"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42662",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "BLENHEIM GARDENS ESTATE, BRIXTON HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10773",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10773] CENTRAL HILL ESTATE, UPPER NORWOOD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10773",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10773",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10773/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10773",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10773"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42677",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "CENTRAL HILL ESTATE, UPPER NORWOOD"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10773_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10773] CENTRAL HILL ESTATE, UPPER NORWOOD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10773_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10773_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10773_DSC_0009_1A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10773_DSC_0009_1A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10773_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10774",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10774] CENTRAL HILL ESTATE, UPPER NORWOOD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10774",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10774",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10774/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10774",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10774"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42678",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "CENTRAL HILL ESTATE, UPPER NORWOOD"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10774_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10774] CENTRAL HILL ESTATE, UPPER NORWOOD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10774_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10774_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10774_DSC_0002A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10774_DSC_0002A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10774_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10777",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10777] NURSES’ HOSTEL, CENTRAL HILL ESTATE, UPPER NORWOOD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10777",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10777",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10777/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10777",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10777"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42681",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "NURSES’ HOSTEL, CENTRAL HILL ESTATE, UPPER NORWOOD"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10777_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10777] NURSES’ HOSTEL, CENTRAL HILL ESTATE, UPPER NORWOOD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10777_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10777_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10777_DSC_0019_1A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10777_DSC_0019_1A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10777_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10786",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10786] HICKMORE WALK, CLAPHAM MANOR ESTATE, CLAPHAM"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10786",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10786",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10786/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10786",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10786"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42690",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "HICKMORE WALK, CLAPHAM MANOR ESTATE, CLAPHAM"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10786_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10786] HICKMORE WALK, CLAPHAM MANOR ESTATE, CLAPHAM"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10786_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10786_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10786_DSC_0019/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10786_DSC_0019",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10786_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10789",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10789] CLAPHAM MANOR ESTATE PLAYGROUND, CLAPHAM"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10789",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10789",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10789/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10789",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10789"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42693",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "CLAPHAM MANOR ESTATE PLAYGROUND, CLAPHAM"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10789_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10789] CLAPHAM MANOR ESTATE PLAYGROUND, CLAPHAM"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10789_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10789_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10789_DSC_0031A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10789_DSC_0031A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10789_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10790",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10790] BELMONT CLOSE, CLAPHAM"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10790",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10790",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10790/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10790",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10790"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42694",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "BELMONT CLOSE, CLAPHAM"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10790_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10790] BELMONT CLOSE, CLAPHAM"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10790_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10790_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10790_DSC_0009/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10790_DSC_0009",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10790_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10798",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10798] HOLLAND RISE, CLAPHAM ROAD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10798",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10798",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10798/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10798",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10798"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42702",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "HOLLAND RISE, CLAPHAM ROAD"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10798_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10798] HOLLAND RISE, CLAPHAM ROAD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10798_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10798_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10798_DSC_0067A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10798_DSC_0067A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10798_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10799",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10799] HOLLAND RISE, CLAPHAM ROAD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10799",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10799",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10799/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10799",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10799"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42703",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "HOLLAND RISE, CLAPHAM ROAD"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10799_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10799] HOLLAND RISE, CLAPHAM ROAD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10799_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10799_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10799_DSC_0061B/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10799_DSC_0061B",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10799_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10806",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10806] CLARENCE AVENUE TOWER BLOCK MODEL, CLAPHAM PARK"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10806",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10806",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10806/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10806",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10806"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42710",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "CLARENCE AVENUE TOWER BLOCK MODEL, CLAPHAM PARK"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10808",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10808] CLARENCE AVENUE, CLAPHAM PARK"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10808",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10808",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10808/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10808",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10808"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42712",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "CLARENCE AVENUE, CLAPHAM PARK"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10808_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10808] CLARENCE AVENUE, CLAPHAM PARK"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10808_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10808_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10808_DSC_0040A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10808_DSC_0040A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10808_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10813",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10813] PLAY AREA, CLARENCE AVENUE, CLAPHAM PARK"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10813",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10813",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10813"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42717",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "PLAY AREA, CLARENCE AVENUE, CLAPHAM PARK"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10813_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10813] PLAY AREA, CLARENCE AVENUE, CLAPHAM PARK"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10813_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10813_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813_DSC_0043_1A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813_DSC_0043_1A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10813_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10883",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10883] GRANTHAM ROAD, STOCKWELL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10883",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10883",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10883/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10883",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10883"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42787",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "GRANTHAM ROAD, STOCKWELL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10883_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10883] GRANTHAM ROAD, STOCKWELL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10883_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10883_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10883_DSC_0026A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10883_DSC_0026A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10883_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10884",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10884] INTERIOR, GRANTHAM ROAD ESTATE, STOCKWELL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10884",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10884",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10884/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10884",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10884"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42788",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "INTERIOR, GRANTHAM ROAD ESTATE, STOCKWELL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10906",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10906] HURST STREET, HERNE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10906",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10906",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10906/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10906",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10906"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42810",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "HURST STREET, HERNE HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10906_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10906] HURST STREET, HERNE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10906_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10906_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10906_DSC_0094A_copy/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10906_DSC_0094A_copy",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10906_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10907",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10907] HURST STREET, HERNE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10907",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10907",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10907/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10907",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10907"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42811",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "HURST STREET, HERNE HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10907_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10907] HURST STREET, HERNE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10907_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10907_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10907_DSC_0096A_copy/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10907_DSC_0096A_copy",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10907_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10932",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10932] MOORLANDS ESTATE, LOUGHBOROUGH PARK, LOUGHBOROUGH JUNCTION"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10932",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10932",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10932/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10932",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10932"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42836",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "MOORLANDS ESTATE, LOUGHBOROUGH PARK, LOUGHBOROUGH JUNCTION"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10932_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10932] MOORLANDS ESTATE, LOUGHBOROUGH PARK, LOUGHBOROUGH JUNCTION"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10932_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10932_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10932_DSC_0019_2A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10932_DSC_0019_2A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10932_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10935",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10935] MOORLANDS ESTATE, LOUGHBOROUGH PARK, LOUGHBOROUGH JUNCTION"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10935",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10935",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10935/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10935",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10935"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42839",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "MOORLANDS ESTATE, LOUGHBOROUGH PARK, LOUGHBOROUGH JUNCTION"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10935_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10935] MOORLANDS ESTATE, LOUGHBOROUGH PARK, LOUGHBOROUGH JUNCTION"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10935_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10935_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10935_DSC_0015/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10935_DSC_0015",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10935_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10937",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10937] MOORLANDS ESTATE, LOUGHBOROUGH JUNCTION"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10937",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10937",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10937/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10937",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10937"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42841",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "MOORLANDS ESTATE, LOUGHBOROUGH JUNCTION"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10937_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10937] MOORLANDS ESTATE, LOUGHBOROUGH JUNCTION"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10937_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10937_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10937_DSC_0007A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10937_DSC_0007A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10937_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10956",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10956] MYATT’S FIELDS NORTH ESTATE PROPOSAL, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10956",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10956",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10956/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10956",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10956"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42860",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "MYATT’S FIELDS NORTH ESTATE PROPOSAL, BRIXTON NORTH"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10957",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10957] MYATTS FIELDS ESTATE BOILER HOUSE, AKERMAN RD, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10957",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10957",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10957/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10957",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10957"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42861",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "MYATTS FIELDS ESTATE BOILER HOUSE, AKERMAN RD, BRIXTON NORTH"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10957_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10957] MYATTS FIELDS ESTATE BOILER HOUSE, AKERMAN RD, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10957_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10957_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10957_myatts-field-case-study-4_1920x1080_boiler_house_now/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10957_myatts-field-case-study-4_1920x1080_boiler_house_now",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10957_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10958",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10958] MYATTS FIELDS ESTATE BOILER HOUSE, AKERMAN RD, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10958",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10958",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10958/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10958",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10958"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42862",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "MYATTS FIELDS ESTATE BOILER HOUSE, AKERMAN RD, BRIXTON NORTH"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10958_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10958] MYATTS FIELDS ESTATE BOILER HOUSE, AKERMAN RD, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10958_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10958_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10958_DSC_0002_1/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10958_DSC_0002_1",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10958_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10993",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[10993] STOCKWELL PARK ESTATE, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10993",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10993",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10993/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10993",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10993"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42897",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "STOCKWELL PARK ESTATE, BRIXTON"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10993_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [10993] STOCKWELL PARK ESTATE, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/10993_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10993_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10993_DSC_0049/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10993_DSC_0049",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10993_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/11002",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[11002] CROSBY WALK, TULSE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/11002",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/11002",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/11002/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/11002",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/11002"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42906",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "CROSBY WALK, TULSE HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/11002_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [11002] CROSBY WALK, TULSE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/11002_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/11002_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/11002_DSC_0062B_copy/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/11002_DSC_0062B_copy",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/11002_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/11003",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[11003] CHILDREN’S CENTRE, TULSE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/11003",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/11003",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/11003/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/11003",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/11003"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=42907",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "CHILDREN’S CENTRE, TULSE HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/11003_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [11003] CHILDREN’S CENTRE, TULSE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/11003_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/11003_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/11003_DSC_0055/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/11003_DSC_0055",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/11003_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/12234",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[12234] CENTRAL HILL ESTATE, UPPER NORWOOD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/12234",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/12234",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/12234/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/12234",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/12234"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=44126",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "CENTRAL HILL ESTATE, UPPER NORWOOD"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/12234_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [12234] CENTRAL HILL ESTATE, UPPER NORWOOD"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/12234_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/12234_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/12234_DSC_0010A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/12234_DSC_0010A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/12234_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/13113",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[13113] SOUTHWYCK HOUSE, MOORLANDS ESTATE, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/13113",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/13113",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/13113/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/13113",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/13113"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=45001",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "SOUTHWYCK HOUSE, MOORLANDS ESTATE, BRIXTON"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/13113_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [13113] SOUTHWYCK HOUSE, MOORLANDS ESTATE, BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/13113_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/13113_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/13113_DSC_0006A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/13113_DSC_0006A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/13113_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/13922",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[13922] MYATT’S FIELDS PHASE B HOUSING, AKERMAN ROAD, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/13922",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/13922",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/13922/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/13922",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/13922"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=47322",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "MYATT’S FIELDS PHASE B HOUSING, AKERMAN ROAD, BRIXTON NORTH"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/13922_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [13922] MYATT’S FIELDS PHASE B HOUSING, AKERMAN ROAD, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/13922_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/13922_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/13922_DSC_0008/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/13922_DSC_0008",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/13922_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14232",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[14232] MYATT’S FIELDS ESTATE, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/14232",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/14232",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14232/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14232",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14232"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=52399",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "MYATT’S FIELDS ESTATE, BRIXTON NORTH"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14232_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [14232] MYATT’S FIELDS ESTATE, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/14232_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/14232_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14232_DSC_0034/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14232_DSC_0034",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14232_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14234",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[14234] MYATT’S FIELD SOUTH, MOSTYN ROAD, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/14234",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/14234",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14234/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14234",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14234"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=52401",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "MYATT’S FIELD SOUTH, MOSTYN ROAD, BRIXTON NORTH"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14234_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [14234] MYATT’S FIELD SOUTH, MOSTYN ROAD, BRIXTON NORTH"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/14234_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/14234_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14234_DSC_0037A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14234_DSC_0037A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14234_2022"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14239",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[14239] MODEL OF STOCKWELL ESTATE, STOCKWELL/ BRIXTON"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/14239",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/14239",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14239/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14239",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14239"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=52406",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "MODEL OF STOCKWELL ESTATE, STOCKWELL/ BRIXTON"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14311",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[14311] LAMBETH ARCHITECTS’ EXHIBITION, FESTIVAL HALL, SOUTH BANK"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/14311",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/14311",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14311/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14311",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14311"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=52734",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "LAMBETH ARCHITECTS’ EXHIBITION, FESTIVAL HALL, SOUTH BANK"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14369",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "[14369] CRESSINGHAM GARDENS ESTATE, TULSE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/14369",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/14369",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14369"
+                        }
+                    ]
+                }
+            ],
+            "homepage": [
+                {
+                    "id": "https://boroughphotos.org/lambeth//?p=52810",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "CRESSINGHAM GARDENS ESTATE, TULSE HILL"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        },
+        {
+            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14369_2022",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "2022 - [14369] CRESSINGHAM GARDENS ESTATE, TULSE HILL"
+                ]
+            },
+            "height": 0,
+            "width": 0,
+            "items": [
+                {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/page/14369_2022",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/14369_2022",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369_DSC_0057A/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpg",
+                                "service": [
+                                    {
+                                        "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/14369_DSC_0057A",
+                                        "type": "ImageService3",
+                                        "profile": "level0"
+                                    }
+                                ],
+                                "height": 0,
+                                "width": 0
+                            },
+                            "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/14369_2022"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

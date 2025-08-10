@@ -212,7 +212,7 @@ if __name__ == "__main__":
 
     manifest = {
         "@context": "http://iiif.io/api/presentation/3/context.json",
-        "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/yesterday-and-today.json",
+        "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/yesterday-and-today-raw.json",
         "type": "Manifest",
         "label": {"en": [ "Yesterday's Lambeth Today: source images"]},
         "items": []
@@ -237,5 +237,5 @@ if __name__ == "__main__":
             canvas_now = get_canvas(now_image, f"2022 - [{k}] {v['name']}", f"{k}_2022")
             manifest["items"].append(canvas_now)
 
-    with open('..\\iiif\\yesterday-and-today.json', 'w', encoding='utf-8') as f:
+    with open('..\\iiif\\yesterday-and-today-raw.json', 'w', encoding='utf-8') as f:
         json.dump(manifest, f, ensure_ascii=False, indent=4)

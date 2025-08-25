@@ -13,9 +13,19 @@
       "type": "Canvas",
       "height": 25373,
       "width": 12506,
+      "behavior": [
+        "left",
+        "w-8",
+        "h-12"
+      ],
       "label": {
         "en": [
           "Lambeth map"
+        ]
+      },
+      "summary": {
+        "en": [
+          "Summary of image"
         ]
       },
       "items": [
@@ -75,6 +85,76 @@
                     ]
                   }
                 ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/yu3d7xnlv6-merbz5le",
+          "type": "AnnotationPage",
+          "label": {
+            "en": [
+              "Tour steps"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/yu3d7xnlv6-merbz5le/annotation/x07u8ro91j-merbzvg7",
+              "type": "Annotation",
+              "motivation": "describing",
+              "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas#xywh=7426,13847,551,627",
+              "body": {
+                "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/yu3d7xnlv6-merbz5le/annotation/x07u8ro91j-merbzvg7/html/en/h1dnziaz10b-merbzvg7",
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h2 id=\"high-rise-pentagonal-towers-hurst-street\">High-Rise Pentagonal Towers, Hurst Street</h2>\n<p>Lambeth’s Department for Architecture and Planning investigated system building very early on, as is shown by a report by William Jacoby following a visit to Germany with representatives of Bernard Sunley and Sons, the building contractors holding the license for Alletong in Britain. Taking advantage of the gov ernment’s subsidies for high-rise housing construction, Lambeth embarked on building 7 pentagonal towers and 8 point blocks with prefabrication factories installed on site.</p>\n<p>(link to panel)</p>"
+              }
+            },
+            {
+              "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/yu3d7xnlv6-merbz5le/annotation/omsbrhgl9xq-merc141d",
+              "type": "Annotation",
+              "motivation": "describing",
+              "target": {
+                "type": "SpecificResource",
+                "source": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas",
+                "selector": [
+                  {
+                    "type": "SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><path d='M3147,13818 3147,14161 3470,14161 3470,13818 Z' /></g></svg>"
+                  }
+                ]
+              },
+              "body": {
+                "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/yu3d7xnlv6-merbz5le/annotation/omsbrhgl9xq-merc141d/html/en/x9987nd6s19-merc141d",
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h2 id=\"high-rise-pentagonal-towers-clarence-avenue\">High-Rise Pentagonal Towers, Clarence Avenue</h2>\n<p>(link to panel)</p>"
+              }
+            },
+            {
+              "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/yu3d7xnlv6-merbz5le/annotation/tc3cyfxw9hk-merc5hly",
+              "type": "Annotation",
+              "motivation": "describing",
+              "target": {
+                "type": "SpecificResource",
+                "source": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas",
+                "selector": [
+                  {
+                    "type": "SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><path d='M3810,12071 3810,12526 4208,12526 4208,12071 Z' /></g></svg>"
+                  }
+                ]
+              },
+              "body": {
+                "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/yu3d7xnlv6-merbz5le/annotation/tc3cyfxw9hk-merc5hly/html/en/321297v7d6s-merc5hly",
+                "type": "TextualBody",
+                "format": "text/html",
+                "language": "en",
+                "value": "<h2 id=\"high-rise-pentagonal-towers-solon-new-road\">High-Rise Pentagonal Towers, Solon New Road</h2>\n<p>(link to panel)</p>"
               }
             }
           ]

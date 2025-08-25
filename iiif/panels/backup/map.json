@@ -1,0 +1,85 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/map.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Yesterday's Lambeth Today"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas",
+      "type": "Canvas",
+      "height": 25373,
+      "width": 12506,
+      "label": {
+        "en": [
+          "Lambeth map"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/painting",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas",
+              "body": {
+                "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/full/789,1600/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpg",
+                "height": 1600,
+                "width": 789,
+                "service": [
+                  {
+                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2",
+                    "type": "ImageService3",
+                    "profile": "level0",
+                    "width": 12506,
+                    "height": 25373,
+                    "sizes": [
+                      {
+                        "width": 49,
+                        "height": 100
+                      },
+                      {
+                        "width": 99,
+                        "height": 200
+                      },
+                      {
+                        "width": 197,
+                        "height": 400
+                      },
+                      {
+                        "width": 493,
+                        "height": 1000
+                      },
+                      {
+                        "width": 500,
+                        "height": 1014
+                      },
+                      {
+                        "width": 789,
+                        "height": 1600
+                      }
+                    ],
+                    "preferredFormats": [
+                      "webp"
+                    ],
+                    "extraFormats": [
+                      "webp"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

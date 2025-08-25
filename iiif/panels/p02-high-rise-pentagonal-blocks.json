@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/panels/p02-high-rise-pentagonal-blocks.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "High-Rise - Pentagonal Blocks"
+    ]
+  },
+  "summary": {
+    "en": [
+      "<p>Lambeth’s Department for Architecture and Planning investigated system building very early on, as is shown by a report by William Jacoby following a visit to Germany with representatives of Bernard Sunley and Sons, the building contractors holding the license for Alletong in Britain. Taking advantage of the government’s subsidies for high-rise housing construction, Lambeth embarked on building 7 pentagonal towers and 8 point blocks with prefabrication factories installed on site.</p>"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10806/full/max/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 2458,
+      "width": 3484,
+      "service": [
+        {
+          "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10806",
+          "type": "ImageService3",
+          "profile": "level0",
+          "protocol": "http://iiif.io/api/image",
+          "width": 3484,
+          "height": 2458,
+          "sizes": [
+            {
+              "width": 100,
+              "height": 71
+            },
+            {
+              "width": 200,
+              "height": 141
+            },
+            {
+              "width": 400,
+              "height": 282
+            },
+            {
+              "width": 500,
+              "height": 352
+            },
+            {
+              "width": 1000,
+              "height": 706
+            },
+            {
+              "width": 1600,
+              "height": 1129
+            }
+          ],
+          "preferredFormats": [
+            "webp"
+          ],
+          "extraFormats": [
+            "webp"
+          ]
+        }
+      ]
+    }
+  ],
+  "items": [
+  ]
+}

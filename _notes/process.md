@@ -69,3 +69,9 @@ What is the landing page? The map? Or the Intro text?
 ```
 .\StaticIIIF.exe 'C:\Users\TomCrane\Dropbox\personal\Lambeth Archives\220825_Exhibition Lambeth Archives 2208\Exhibition Layouts 220823 Folder\Links\09414.jpg' 'C:\git\tomcrane\yesterdays-lambeth-today\iiif-img\09414'
 ```
+
+
+# Manifests
+
+Map - https://theseusviewer.org/?iiif-content=https://tomcrane.github.io/yesterdays-lambeth-today/iiif/map.json
+Panel 02 - https://exhibitionviewer.org/preview/delft?manifest=https://tomcrane.github.io/yesterdays-lambeth-today/iiif/panels/p02-high-rise-pentagonal-blocks.json 

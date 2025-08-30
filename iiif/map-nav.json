@@ -105,6 +105,11 @@
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/map-nav-links-inline.json",
           "type": "AnnotationPage",
+          "label": {
+                "en": [
+                  "Lambeth Navigation"
+                ]
+              },
           "items": [
             {
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/ljm0q3oouol-meye08fk/annotation/fucxt5seha-meye475z",

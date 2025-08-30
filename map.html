@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yesterday's Lambeth Today: Map</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/@digirati/canvas-panel-web-components@latest"></script>
+    <style>
+        html, body {
+            margin: 0;
+            height: 100%;
+        }
+
+        body {
+            display: flex;
+        }
+
+        canvas-panel {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            min-width: 0; /* Required for downsizing */
+
+            --atlas-container-flex: 1 1 0px;
+            --atlas-background: #9b6631;
+        }
+
+        .resize {
+            resize: both;
+            overflow: auto;
+            padding: 30px;
+            margin: 30px;
+            min-width: 0;
+            width: 100%;
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+    <p>Yesterday's Lambeth Today</p>
+
+    
+    <div class="resize">
+        <canvas-panel
+            height="1"
+            canvas-id="https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas"
+            manifest-id="https://tomcrane.github.io/yesterdays-lambeth-today/iiif/map-nav.json"
+        />
+        <!-- <canvas-panel
+            height="1"
+            canvas-id="https://preview.iiif.io/cookbook/3333-choice/recipe/0036-composition-from-multiple-images/canvas/p1"
+            manifest-id="https://gist.githubusercontent.com/stephenwf/19e61dac5c329c77db8cf22fe0366dad/raw/04971529e364063ac88de722db786c97e2df0e6b/manifest.json"
+        /> -->
+    </div>
+</body>
+</html>

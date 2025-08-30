@@ -1,0 +1,79 @@
+{
+  "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/map-nav-links.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/ljm0q3oouol-meye08fk/annotation/fucxt5seha-meye475z",
+      "type": "Annotation",
+      "label": {
+        "en": [
+          "High-rise pentagonal blocks: Park View and Herne Hill House - Hurst Street Point Blocks"
+        ]
+      },
+      "motivation": "describing",
+      "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas#xywh=7348,13934,636,557",
+      "body": {
+        "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/ljm0q3oouol-meye08fk/annotation/fucxt5seha-meye475z/html/en/s32rrk4uhua-meye475z",
+        "type": "TextualBody",
+        "format": "text/html",
+        "language": "en",
+        "value": "<p><a href=\"https://exhibitionviewer.org/preview/delft?manifest=https://tomcrane.github.io/yesterdays-lambeth-today/iiif/panels/p02-high-rise-pentagonal-blocks-crop.json\">High-rise pentagonal blocks</a> Lambeth’s Department for Architecture and Planning investigated system building very early on, as is shown by a report by William Jacoby following a visit to Germany with representatives of Bernard Sunley and Sons, the building contractors holding the license for Alletong in Britain. Taking advantage of the government’s subsidies for high-rise housing construction, Lambeth embarked on building 7 pentagonal towers and 8 point blocks with prefabrication factories installed on site.</p>"
+      }
+    },
+    {
+      "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/ljm0q3oouol-meye08fk/annotation/b0xgvmr5yx-meye5udc",
+      "type": "Annotation",
+      "label": {
+        "en": ["High-rise pentagonal blocks: Clarence Avenue"]
+      },
+      "motivation": "describing",
+      "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas#xywh=3114,13824,339,325",
+      "body": {
+        "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/ljm0q3oouol-meye08fk/annotation/b0xgvmr5yx-meye5udc/html/en/kkns2n56sr-meye5udc",
+        "type": "TextualBody",
+        "format": "text/html",
+        "language": "en",
+        "value": "<p><a href=\"https://exhibitionviewer.org/preview/delft?manifest=https://tomcrane.github.io/yesterdays-lambeth-today/iiif/panels/p02-high-rise-pentagonal-blocks-crop.json\">High-rise pentagonal blocks</a> Lambeth’s Department for Architecture and Planning investigated system building very early on, as is shown by a report by William Jacoby following a visit to Germany with representatives of Bernard Sunley and Sons, the building contractors holding the license for Alletong in Britain. Taking advantage of the government’s subsidies for high-rise housing construction, Lambeth embarked on building 7 pentagonal towers and 8 point blocks with prefabrication factories installed on site.</p>"
+      }
+    },
+    {
+      "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/ljm0q3oouol-meye08fk/annotation/9905isktstk-meyeb1fd",
+      "type": "Annotation",
+      "label": {
+        "en": ["High-rise pentagonal blocks: Solon New Road, Bedford House"]
+      },
+      "motivation": "describing",
+      "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas#xywh=3839,12140,329,342",
+      "body": {
+        "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/ljm0q3oouol-meye08fk/annotation/9905isktstk-meyeb1fd/html/en/vmqd8mhnpl-meyeb1fd",
+        "type": "TextualBody",
+        "format": "text/html",
+        "language": "en",
+        "value": "<p><a href=\"https://exhibitionviewer.org/preview/delft?manifest=https://tomcrane.github.io/yesterdays-lambeth-today/iiif/panels/p02-high-rise-pentagonal-blocks-crop.json\">High-rise pentagonal blocks</a> Lambeth’s Department for Architecture and Planning investigated system building very early on, as is shown by a report by William Jacoby following a visit to Germany with representatives of Bernard Sunley and Sons, the building contractors holding the license for Alletong in Britain. Taking advantage of the government’s subsidies for high-rise housing construction, Lambeth embarked on building 7 pentagonal towers and 8 point blocks with prefabrication factories installed on site.</p>"
+      }
+    },
+    {
+      "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/ljm0q3oouol-meye08fk/annotation/kxshwi9rhe-meyef474",
+      "type": "Annotation",
+      "label": {
+        "en": ["High-rise pentagonal blocks: Hamilton Road, Northwood House"]
+      },
+      "motivation": "describing",
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 12506 25373\" width=\"12506\" height=\"25373\"><polygon points=\"10240,20433 10168,20689 10216,20907 10418,20905 10490,20798 10464,20622 10346,20533 10316,20442\" /></svg>"
+        }
+      },
+      "body": {
+        "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif-img/map2/canvas/annotations/ljm0q3oouol-meye08fk/annotation/kxshwi9rhe-meyef474/html/en/tjjzkzceaei-meyef474",
+        "type": "TextualBody",
+        "format": "text/html",
+        "language": "en",
+        "value": "<p><a href=\"https://exhibitionviewer.org/preview/delft?manifest=https://tomcrane.github.io/yesterdays-lambeth-today/iiif/panels/p02-high-rise-pentagonal-blocks-crop.json\">High-rise pentagonal blocks</a> Lambeth’s Department for Architecture and Planning investigated system building very early on, as is shown by a report by William Jacoby following a visit to Germany with representatives of Bernard Sunley and Sons, the building contractors holding the license for Alletong in Britain. Taking advantage of the government’s subsidies for high-rise housing construction, Lambeth embarked on building 7 pentagonal towers and 8 point blocks with prefabrication factories installed on site.</p>"
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/panels/p02-high-rise-pentagonal-blocks.json",
+  "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/panels/p02-high-rise-pentagonal-blocks-crop.json",
   "type": "Manifest",
   "label": {
     "en": [

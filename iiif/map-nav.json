@@ -103,7 +103,7 @@
       ],
       "annotations": [
         {
-          "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/map-nav-links.json",
+          "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/map-nav-links-inline.json",
           "type": "AnnotationPage",
           "items": [
             {

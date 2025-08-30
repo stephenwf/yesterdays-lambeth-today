@@ -1194,24 +1194,32 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10813_2022",
+              "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10813_2022_crop",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10813_2022",
               "body": {
-                "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813_DSC_0043_1A/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpg",
-                "height": 4928,
-                "width": 3264,
-                "service": [
-                  {
-                    "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813_DSC_0043_1A",
-                    "type": "ImageService3",
-                    "profile": "level0"
-                  }
-                ]
-              }
+                "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10813_2022_crop_sr",
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813_DSC_0043_1A/full/max/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 4928,
+                  "width": 3264,
+                  "service": [
+                    {
+                      "id": "https://tomcrane.github.io/yesterdays-lambeth-today-iiif-img/10813_DSC_0043_1A",
+                      "type": "ImageService3",
+                      "profile": "level0"
+                    }
+                  ]
+                },
+                "selector": {
+                  "type": "ImageApiSelector",
+                  "region": "5,670,2800,4260"
+                }
+              },
+              "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10813_2022"
             }
           ]
         }

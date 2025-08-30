@@ -39,8 +39,16 @@
         "w-12",
         "h-2"
       ],
-      "placeholderCanvas": [],
-      "accompanyingCanvas": [],
+      "placeholderCanvas": {
+        "id": "https://iiif-parser/empty-canvas",
+        "type": "Canvas",
+        "items": []
+      },
+      "accompanyingCanvas": {
+        "id": "https://iiif-parser/empty-canvas",
+        "type": "Canvas",
+        "items": []
+      },
       "items": [
         {
           "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/panels/p02-high-rise-pentagonal-blocks.json/canvas/ym8ouejqrs-merau2w5/annotation-page/l5r14mjalnq-merau2w5",
@@ -609,8 +617,8 @@
       "height": 3307,
       "width": 2568,
       "behavior": [
-        "right",
-        "w-7",
+        "bottom",
+        "w-6",
         "h-8"
       ],
       "label": {
@@ -723,7 +731,7 @@
       "width": 3050,
       "behavior": [
         "bottom",
-        "w-5",
+        "w-6",
         "h-8"
       ],
       "label": {
@@ -785,6 +793,7 @@
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10808_2022_crop",
               "type": "Annotation",
               "motivation": "painting",
+              "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10808_2022",
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10808_2022_crop_sr",
                 "type": "SpecificResource",
@@ -806,8 +815,7 @@
                   "type": "ImageApiSelector",
                   "region": "8,30,3050,3380"
                 }
-              },
-              "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10808_2022"
+              }
             }
           ]
         }
@@ -1021,8 +1029,8 @@
       "height": 2598,
       "width": 3338,
       "behavior": [
-        "left",
-        "w-7",
+        "bottom",
+        "w-6",
         "h-7"
       ],
       "label": {
@@ -1135,7 +1143,7 @@
       "width": 2800,
       "behavior": [
         "bottom",
-        "w-5",
+        "w-6",
         "h-7"
       ],
       "label": {
@@ -1145,7 +1153,7 @@
       },
       "summary": {
         "en": [
-          "Children’s play area on the Clarence Avenue Estate 2022"
+          " Children’s play area on the Clarence Avenue Estate 2022"
         ]
       },
       "thumbnail": [
@@ -1197,6 +1205,7 @@
               "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10813_2022_crop",
               "type": "Annotation",
               "motivation": "painting",
+              "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10813_2022",
               "body": {
                 "id": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/painting/10813_2022_crop_sr",
                 "type": "SpecificResource",
@@ -1218,8 +1227,7 @@
                   "type": "ImageApiSelector",
                   "region": "5,670,2800,4260"
                 }
-              },
-              "target": "https://tomcrane.github.io/yesterdays-lambeth-today/iiif/canvas/10813_2022"
+              }
             }
           ]
         }

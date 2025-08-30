@@ -81,31 +81,29 @@ https://theseusviewer.org/?iiif-content=https://tomcrane.github.io/yesterdays-la
 
 # Implementation Notes
 
-> Assume that the IIIF Preparation has been done - this requires more technical knowledge - but you could have used IIIF-CS and just uploaded all the raw images instead. I wanted them all to be static for this, though, hence all the above palaver. So our starting point is:
+> Assume that the IIIF Preparation described above has been done - this requires more technical knowledge - but you could have used IIIF-CS and just uploaded all the raw images instead. I wanted them all to be static for this, though, hence all the above palaver. So our starting point is:
 
-* a nice Manifest with all the source images
+* a [nice Manifest](https://theseusviewer.org/?iiif-content=https://tomcrane.github.io/yesterdays-lambeth-today/iiif/yesterday-and-today.json) with all the source images, for picking from in tools.
 * PDFs of the physical panels that I can grab text from, and use to crop by eye where images need cropping.
-
----
 
 In my spare time recently I've been trying to build an exhibition with the Manifest Editor and Exhibition builder.
 It's an online version of a (real) small physical exhibition that mostly comprised display panels with text and images, ideal for transforming into an online exhibition.
 
 Here's a part of it, these are representative of the panels I'm tackling first:
 
-[Panels](../img_src/NMLG4356.JPG)
+![Panels](../img_src/NMLG4356.JPG)
 
-There are also 3D models, notes and bound objects in cases (which have been digitised so could be viewed in a linked viewer), as well as video interviews, large drawings and other material. I want to get the panels done first as they most closely align (I think) with what we have done so far with exhibition building. All these other things are very typical of small exhibitions, though.
+There are also 3D models (i.e., physical architectural models), documents and other bound objects in cases (which have been digitised so could be viewed in a linked viewer), as well as video interviews, large drawings and other material. I want to get the panels done first as they most closely align (I think) with what we have done so far with exhibition building. All these other things are very typical of small exhibitions, though.
 
-I have just been fiddling about with one of the panels, and the map so far, before I then do all the panels.
+I have just been fiddling about with one of the panels, and the map so far, before I then do all the panels quickly having established the process.
 
-I think that the "exhibition" as a whole is actually multiple IIIF Manifests, one for each panel, and therefor multiple Delft-style exhibitions. There's also a map that in physical form was usefully informative, but in online form is potentially much more useful as a navigation device - linking to the different panels. Several locations on the map will link to the same "exhibition" (panel).
+I think that the "exhibition" as a whole is actually multiple IIIF Manifests, one for each panel, and therefore multiple Delft-style exhibitions. There's also a map that in physical form was usefully informative, but in online form is potentially much more useful as a navigation device - linking to the different panels. Several locations on the map will link to the same "exhibition" (panel).
 
-I think that the published exhibition has an index.html that provides an intro, and the map navigation, and then each panel is another HTML page that is mostly the embedded Delft view, but has a little navigation to get back to the map view. Individual Canvases in the panels could also link back to a particular annotation in the Map view, showing you exactly where the picture is.
+I think that the published exhibition has an index.html that provides an introduction ([placeholder here](https://tomcrane.github.io/yesterdays-lambeth-today)), and the map navigation, and then each panel is another HTML page that is mostly the embedded Delft view, but has a little navigation to get back to the map view. Individual Canvases in the panels could also link back to a particular annotation in the Map view, showing you exactly where the picture is.
 
-I have experimented with the map as tour steps, and as a plain Manifest in Theseus. The annotations should probably be `linking` annotations but at the moment are `describing`, with a link in the text to the panel page (just a link to the external Delft viewer so far).
+I have experimented with the map as *tour steps*, and as a plain Manifest in Theseus. The annotations should probably be `linking` annotations but at the moment are `describing`, with a link in the text to the panel page (just a link to the external Delft viewer so far).
 
-None of these modes really work for the use case though, so I started to see what a more custom map page would look like with Canvas Panel + linking annotations. This hasn't worked as explained below.
+None of these modes really work for the use case though, so I started to see what a more custom map page would look like with Canvas Panel + linking annotations. This hasn't worked, as explained below.
 
 Map navigation - in Theseus:
  
@@ -124,9 +122,9 @@ https://tomcrane.github.io/yesterdays-lambeth-today/map.html
 
 The reason this doesn't work is that it's a IIIF Image API v3 Image Service, which expects `size` param requests to be of the form `/w,h/`, but Canvas Panel is requesting them in the v2 Canonical Form `/w,/`. These are **static** tiles, hosted on GitHub, and as a level 3 service I only generated them in the `/w,h/` form - so all the tiles are 404s.
 
-If it did work, I assume I would write some script to grab the annotations, and make them interactive, using https://iiif-canvas-panel.netlify.app/docs/examples/annotations as a starting point.
+If it did work, I assume I would write some script to grab the annotations, and make them interactive, using https://iiif-canvas-panel.netlify.app/docs/examples/annotations as a starting point. I am not sure if there's a simpler way though. The general case here is a Canvas as a navigation device, with linking annotations going to different HTML pages - a map is just one version of this.
 
-Parking that for now, here is the first exhibition Panel:
+Parking the map for now, here is the first exhibition Panel:
 
 Panel 2 manifest:
 
@@ -142,9 +140,9 @@ In Delft:
 
 On the original panels the modern (colour) images were cropped to approximate the archive image. My image services are bulk-generated from the original images, not the crop, so I need to crop _at the IIIF level_ using a `SpecificResource` body rather than a direct `Image`.
 
-I don't think I can do this in the Manifest Editor, but I can do it by hand as a Specific Resource. I modified tow of the Canvases in this Manifest (by hand) to achieve this.
+I don't think I can do this in the Manifest Editor (can I?), but I can do it by hand as a `SpecificResource`. I modified two of the Canvases in this Manifest (by hand) to achieve this.
 
-The SpecificResource works on Canvas 8 (compare the Canvas view with its thumbnail which is still the original image aspect ratio). But exactly the same approach does **not** work on Canvas 12. I can't see that I've done anything different - you can see both in Theseus and the Delft view that it remains uncropped. (Possibly I have done something stupid that I will eventually spot).
+The SpecificResource works fine on Canvas 8 (compare the Canvas view with its thumbnail which is still the original image aspect ratio). But exactly the same approach does **not** work on Canvas 12. I can't see that I've done anything different - you can see both in Theseus and the Delft view that it remains uncropped. (Possibly I have done something stupid that I will eventually spot).
 
 ## Manifest Editor pain points
 

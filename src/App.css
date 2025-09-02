@@ -1,0 +1,5 @@
+.thumbs {
+  display: flex;
+  overflow-y: auto;
+  flex-wrap: nowrap;
+}

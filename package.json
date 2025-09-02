@@ -1,0 +1,40 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "@atlas-viewer/atlas": "2.3.5",
+    "react-iiif-vault": "https://pkg.csb.dev/digirati-co-uk/react-iiif-vault/commit/5f33287a/react-iiif-vault",
+    "@iiif/helpers": "https://pkg.csb.dev/IIIF-Commons/iiif-helpers/commit/6d419a8a/@iiif/helpers",
+    "@iiif/parser": "2.2.1"
+  },
+  "pnpm": {
+    "overrides": {
+      "react": "^18",
+      "react-dom": "^18",
+      "@atlas-viewer/atlas": "2.3.5",
+      "@iiif/helpers": "https://pkg.csb.dev/IIIF-Commons/iiif-helpers/commit/6d419a8a/@iiif/helpers",
+      "@iiif/parser": "2.2.1"
+    }
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@vitejs/plugin-react": "^5.0.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "vite": "^7.1.2"
+  }
+}
